@@ -5,8 +5,103 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
+  <!-- local css -->
+  <link rel="stylesheet" type="text/css" href="./style.css"/>
+  <!-- Bootstrap -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
+  
+  <!-- Lightweight client-side loader that feature-detects and load polyfills only when necessary -->
+  <script src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs@2/webcomponents-loader.min.js"></script>
+
+  <!-- Load the element definition -->
+  <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@1/src/zero-md.min.js"></script>
 </head>
-<body>
-  Hi there
+<body class="d-flex flex-column min-vh-100">
+  <header>
+    <nav class="navbar navbar-expand-lg bg-3">
+      <div class="container">
+        <a class="navbar-brand" href="#">Nimuni</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#"></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#other">Etc</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </header>
+  <div class="wrapper my-5">
+    <div class="container py-3">
+      <section id="about">
+        <h3 class="mb-5">About Nimuni</h3>
+        <zero-md src="./README.md"></zero-md>
+      </section>
+    </div>
+  </div>
+  <div class="wrapper bg-0">
+    <div class="container py-3">
+      <section id="other" style="min-height: 10vh;">
+        <h3 class="mb-5">Etc</h3>
+        <div class="container">
+          <div class="row g-3">
+            <div class="col-4">
+              <div class="card">
+                <div class="card-body">
+                  <h5 class="card-title">test title</h5>
+                  <p class="card-text">
+                    test
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-4">
+              <div class="card">
+                <div class="card-body">
+                  <h5 class="card-title">test title</h5>
+                  <p class="card-text">
+                    test
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-4">
+              <div class="card">
+                <div class="card-body">
+                  <h5 class="card-title">test title</h5>
+                  <p class="card-text">
+                    test
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-4">
+              <div class="card">
+                <div class="card-body">
+                  <h5 class="card-title">test title</h5>
+                  <p class="card-text">
+                    test
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+  </div>
+  <footer class="footer mt-auto bg-5">
+    <div class="container flex-center" style="height:100%">
+      <span class="text-center pa-3">Copyright 2016-2022 by nimuni. All Rights Reserved.</span>
+    </div>
+  </footer>
 </body>
 </html>

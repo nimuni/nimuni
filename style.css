@@ -1,0 +1,89 @@
+@charset "utf-8"; 
+/* 
+#597eb5
+#b6cbea
+#83a2d1
+#3c639d
+#204d90
+*/
+
+
+html {
+  /* font-size: calc(0.35vw + 8.74px); */
+  font-size: 1rem;
+}
+
+.bg-0 {
+  background-color: #d7d9dd;
+}
+.bg-1 {
+  background-color: #b0c0e0;
+}
+.bg-2 {
+  background-color: #83a2d1;
+}
+.bg-3 {
+  background-color: #597eb5;
+}
+.bg-4 {
+  background-color: #3c639d;
+}
+.bg-5 {
+  background-color: #204d90;
+}
+.btn-bd-primary {
+  --bs-btn-font-weight: 600;
+  --bs-btn-color: white !important;
+  --bs-btn-bg: #204d90 !important;
+  --bs-btn-border-color: #204d90df;
+  --bs-btn-border-radius: .5rem;
+  --bs-btn-hover-color: white;
+  --bs-btn-hover-bg: #204d90bf;
+  --bs-btn-hover-border-color: #204d90;
+  --bs-btn-focus-shadow-rgb: #204d90bf;
+  --bs-btn-active-color: #204d90df;
+  --bs-btn-active-bg: #204d90bf;
+  --bs-btn-active-border-color: #204d90bf;
+}
+
+ul.navbar-nav > li > a{
+  color: white
+}
+ul.navbar-nav > li > a:hover {
+  color: #b0c0e0
+}
+a.navbar-brand {
+  color: white;
+}
+a.navbar-brand:hover {
+  color: #b0c0e0;
+}
+
+section > h3 {
+  text-align: center;
+}
+
+
+.wrapper{
+  min-height: 30vh;
+} 
+
+.footer {
+  height: 5vh;
+}
+
+.footer .flex-center {
+  display: flex;
+  justify-content: center;
+}
+
+.footer .flex-center span {
+  display: flex;
+  color: #b6cbea;
+  align-items: center;
+}
+
+.form-button-center {
+  display: flex;
+  justify-content: center;
+}

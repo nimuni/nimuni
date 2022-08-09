@@ -1,14 +1,14 @@
-### Hi there 👋
+# Hi there 👋
 
 ---
 
 I'm Yimoon Kang
 
-- 🔭 I’m currently working on KAIST
+- 🔭 I’m currently working on KAIST ISILAB
 - 🌱 I’m currently learning Nodejs, javascript
 
 
-## Skill
+# Skill
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,7 +24,7 @@ I'm Yimoon Kang
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-## 참여 Projects
+# 참여 Projects
 |No.|프로젝트명|기간|설명|역할|사용기술|
 |:---:|:---|:---|:---|:---|:---|
 |1|e-발주지원 통합관리 시스템 구축 2차|2016.03~2016.05|제안요청 및 평가 관련 시스템 테스트 및 버그 수정|QA 및 디버깅|HTML5, Jquery, JS, Java, Oracle|

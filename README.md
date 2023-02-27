@@ -33,7 +33,7 @@ I'm Yimoon Kang
 |4|국방과학연구소 e-감사시스템 구축|2019.03~2019.06|e-감사시스템 구축|분석, 설계, 구현|HTML5, Jquery, JS, Java, MySQL|
 |5|ZZALKAK 키오스크 프로그램 개발|2019.08~2021.12|AR 사진촬영 키오스크 프로그램 개발 및 유지보수|분석, 설계, 구현|HTML5, JS, CSS3, Electron.js, Vue.js, Vuetify|
 |6|실내외통합위치측위 시스템 KAILOS 유지보수|2021.12~|각종 센서 기술을 이용한 위치측위시스템 유지보수|유지보수|Express, JS, Bootstrap, Google Map, Mapbox|
-|7|HandsOnNFT 시스템 구축|2022.04~|NFC기술을 이용한 NFT 거래 플랫폼 개발|PM|-|
+|7|HandsOnNFT 시스템 구축|2022.04~|NFC기술을 이용한 NFT 거래 플랫폼 개발|분석, 설계, 구현|HTML5, JS, Ethereum, Solidity, Express|
 
 <!--
 **nimuni/nimuni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

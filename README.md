@@ -5,7 +5,7 @@
 I'm Yimoon Kang
 
 - 🔭 I’m currently working on KAIST ISILAB
-- 🌱 I’m currently learning Nodejs, javascript
+- 🌱 I’m currently learning Nextjs, Reactjs
 
 
 # Skill

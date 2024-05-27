@@ -1,7 +1,7 @@
 # 👋 Thanks for watching My Space!
 
 I'm Yimoon Kang
-- 🔍️ I'm trying to make My Own Web Service for writing! 🔗[ImagineMate - for easy writing](https://imagineMate.nimuni.com)
+- 🔍️ I'm trying to make My Novel group's Web Service for writing! 🔗[ImagineMate - for easy writing](https://imagineMate.nimuni.com)
 - 🌱 I’m currently learning Nextjs, Reactjs, prisma, portgreSQL
 - 🤗 Suggestion for Web development jobs are welcome.
 

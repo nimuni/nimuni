@@ -9,6 +9,15 @@ I'm Yimoon Kang
 ![Nimuni's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimuni&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimuni&langs_count=10&layout=compact&theme=white)](https://github.com/nimuni/nimuni)
 
+# Short Introduction
+I have worked as a frontend engineer for a total of 6 years and 9 months.<br/>
+My main tasks included the research and development of JavaScript-based programs.<br/>
+I mainly used TypeScript, Next.js, and React for projects, and worked with team members using tools like Swagger and Postman for documentation and project development.<br/>
+This helped me gain practical experience in web development.<br/>
+
+I believe I can face any challenge without fear if it helps me improve my technical skills.<br/>
+With my experience working at KAIST and various companies, I have developed strong problem-solving skills and excellent communication skills.<br/>
+I want to contribute, grow with the company, and find satisfaction in a role where I can take on new challenges.<br/>
 ﻿
 
 

@@ -1,7 +1,7 @@
 # 👋 Thanks for watching My Space!
 
 I'm Yimoon Kang
-- 🔍️ I'm trying to make My Writing group's Web Service for writing! [2024/03/01 ~ current] 🔗[ImagineMate - for easy writing](https://imagineMate.nimuni.com)
+- 🔍️ I'm trying to make My Writing group's Web Service for writing! [2024/03/01 ~ current] 🔗[ImagineMate](https://imagineMate.nimuni.com)
 - 🌱 I’m currently learning Nextjs, Reactjs, prisma, portgreSQL
 - 🤗 Suggestion for Web development jobs are welcome.
 
@@ -63,6 +63,18 @@ I want to contribute, grow with the company, and find satisfaction in a role whe
 |7|HandsOnNFT 시스템 구축|2022.04~2023.07|NFC기술을 이용한 NFT 거래 플랫폼 개발|분석, 설계, 구현|HTML5, JS, Ethereum, Solidity, Express, Reactjs, Nextjs|
 |8|Zzalkak Online 시스템 구축|2023.08~2024.02|Nextjs를 이용한 Zzalkak 연동 웹 프로그램 개발|분석, 설계, 구현|HTML5, JS, Reactjs, Nextjs, Mongoose, Mongodb, Tailwindcss|
 
+# 토이프로젝트
+1. 숲에서자고파 (2023-04-20 ~ 2023-04-25 [5일])<br/>
+➡️프로젝트 설명<br/>
+자연휴양림 예약 사이트 숲나들이에서 vanilla javascript를 이용하여 예약할 숙소 3가지를 정한 후, 시간이 되면 자동으로 우선순위 별 서칭을 통해 숙소 예약 페이지로 진입하는 프로그램.<br/>
+스토어에 비공개 게시.
+
+2. 🔗[상상항해사](https://imaginemate.nimuni.com) (2024-03 ~ )<br/>
+➡️프로젝트 설명<br/>
+글쓰기 동호회에서 사용할 수 있도록 만든 페이지.<br/>
+Nextjs를 기반으로 Front/Back이 구성되었음. Typescript, PostgreSQL, Prisma, AWS S3, NextAuth-v5, CKEditor5, Shadcn/ui, recharts, tailwindcss, zod, langchain(진행중)을 이용하여 제작된 사이트.<br/>
+'소일장'을 원활하게 이용하고, 나아가 글쓰기를 재밌게 만들어줄 수 있는 기능들을 추가하는 중.
+ 
 # 경력기술서
 1. e-발주시스템 2차(SI)[2016.03~2016.05] - javascript, jquery, AJAX, 전자정부 프레임워크 기반. Oracle 11g DB 사용.<br/>➡️제안, 제안요청 부분 단위, 통합테스트 진행 및 버그 수정.
 신입으로 입사하여 격리된 내부망에서 작업했습니다. 전자정부프레임워크 기반으로 개발된 서비스의 비즈니스로직을 파악한 후, 해당 로직대로 프로젝트가 문제없이 동작하는지 단위, 통합테스트를 진행한 후, 오류 리스트화 및 수정을 진행했습니다.

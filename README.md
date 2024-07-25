@@ -70,18 +70,8 @@ I want to contribute, grow with the company, and find satisfaction in a role whe
 확장프로그램에 대한 궁금증 + 당장의 숙소 예약을 위해 만들었기 때문에 데이터를 크롤링하여 데이터로 적용해둠.<br/>
 이후 지인의 요청에 따라, 간단한 UI 적용하여 테스트 유저로 추가하여 일부만 배포<br/>
 스토어에 비공개 게시.<br/><br/>
-![step1](https://github.com/nimuni/nimuni/assets/16898920/88554dfd-1a8d-4750-a7d4-d01833e3f228) <br/>
-확장프로그램으로 고정시키기<br/><br/>
-![foresttrip1](https://github.com/nimuni/nimuni/assets/16898920/0eb97fb1-575c-43c2-9d7a-2a0c2dd06f8d) <br/>
-사용하기 위한 숲나들이 메뉴 위치 설명<br/><br/>
-![wantToSleepInForrestEmpty](https://github.com/nimuni/nimuni/assets/16898920/a13f3b91-9698-4b49-ae0a-e6b33a3d33be)
-![test](https://github.com/nimuni/nimuni/assets/16898920/43ab5e7d-7616-4314-b903-8dbb1d1cf710) <br/>
-사용방법<br/><br/>
-![excuteSuccess](https://github.com/nimuni/nimuni/assets/16898920/a110a69c-6d3c-4653-aa87-1f2ee7f7354e) <br/>
-동작 예시<br/><br/>
 
-
-3. 🔗[상상항해사](https://imaginemate.nimuni.com) (2024-03 ~ )<br/>
+2. 🔗[상상항해사](https://imaginemate.nimuni.com) (2024-03 ~ )<br/>
 ➡️프로젝트 설명<br/>
 글쓰기 동호회에서 사용할 수 있도록 만든 페이지.<br/>
 Next.js 프레임워크를 기반으로 구성. <br/>
@@ -89,30 +79,22 @@ cloudflare, raspberrypi-ubuntu, let's encrypt, nginx, nodejs, Typescript, Postgr
 '소일장'을 원활하게 이용하고, 나아가 글쓰기를 재밌게 만들어줄 수 있는 기능들을 추가하는 중.<br/>
 
 문제 및 해결방안:<br/>
-1. 소일장에 대한 주제 선정이 어려움.
+- 소일장에 대한 주제 선정이 어려움.
     * 참여인원의 주제 등록 및 투표를 통한 선정
     * 등록된 주제를 기반으로 자동 선정
     * 주최자가 선정
     * +AI를 통해 주제 생성(예정)
-2. 소일장과 연계된 글인지 확인하기가 번거로움
+- 소일장과 연계된 글인지 확인하기가 번거로움
     * 소일장 DB와 key연결을 통해 해당 소일장에 대한 글인지 파악
-3. 글을 쓰기를 독려하기 위한 컨텐츠를 커스텀할 수 없음.
+- 글을 쓰기를 독려하기 위한 컨텐츠를 커스텀할 수 없음.
     * +AI를 통해 요약 및 이미지 생성(진행중)
-4. 글 작성 시 작가노트를 찾아보기 쉬웠으면 좋겠음
+- 글 작성 시 작가노트를 찾아보기 쉬웠으면 좋겠음
     * 사이트 우측 작가노트를 통해 폴더 및 글을 작성 및 조회.
- 
 
-스크린샷:<br/>
-![스크린샷 2024-07-09 154301](https://github.com/nimuni/nimuni/assets/16898920/489ebb1f-6d62-4555-b8b7-77785862b745) <br/>
-관리자페이지-대시보드<br/><br/>
-![스크린샷 2024-07-09 154359](https://github.com/nimuni/nimuni/assets/16898920/f9b2d11e-61a1-4d5e-83ae-61413c67bb81) <br/>
-언제든 열어볼 수 있는 작가노트<br/><br/>
-![스크린샷 2024-07-09 154416](https://github.com/nimuni/nimuni/assets/16898920/197d52ad-a64d-4e92-9db4-86ab4a9e542e) <br/>
-소일장 글 모아보기<br/><br/>
-![스크린샷 2024-07-09 154506](https://github.com/nimuni/nimuni/assets/16898920/9f4ec13c-2b9e-48f9-94cd-ae1196e09034) <br/>
-작성자 글 보기<br/><br/>
-![스크린샷 2024-07-09 154528](https://github.com/nimuni/nimuni/assets/16898920/ac829482-8df6-47fa-b2c2-095ce2b144bf) <br/>
-댓글기능<br/><br/>
+3. 🔗[포트폴리오 페이지](https://nimuni.com) (2024/07/12 ~ 2024/07/25)<br/>
+➡️프로젝트 설명<br/>
+Next.js를 이용해 여유시간을 이용하여 포트폴리오 제작을 목표로 진행하였습니다.<br/>
+Next.js, TypeScript, TailwindCSS, Shadcn/ui, React Hook Form, Zod, Framer Motion, Nodemailer, PM2, Ubuntu Server, Raspberry Pi 를 이용하여 제작된 사이트<br/>
  
 # 경력기술서
 1. e-발주시스템 2차(SI)[2016.03~2016.05] - javascript, jquery, AJAX, 전자정부 프레임워크 기반. Oracle 11g DB 사용.<br/>➡️제안, 제안요청 부분 단위, 통합테스트 진행 및 버그 수정.

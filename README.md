@@ -6,8 +6,6 @@ I'm Yimoon Kang
 - 🤗 Suggestion for Web development jobs are welcome.
 
 ---
-![Nimuni's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimuni&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimuni&langs_count=10&layout=compact&theme=white)](https://github.com/nimuni/nimuni)
 
 # Short Introduction
 I have worked as a frontend engineer for a total of 6 years and 9 months.<br/>

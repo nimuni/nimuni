@@ -30,12 +30,26 @@ I want to contribute, grow with the company, and find satisfaction in a role whe
 ### Language
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-### Framework / Component Library
+
+### Framework / Library
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-![React.js](https://img.shields.io/badge/React-%23222222.svg?style=for-the-badge&logo=react&logoColor=%236cddfb)
+
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
+
+![React.js](https://img.shields.io/badge/React-%23222222.svg?style=for-the-badge&logo=react&logoColor=%236cddfb)
+![Next.js](https://img.shields.io/badge/Nextjs-%23222222.svg?style=for-the-badge&logo=nextdotjs&logoColor=%23ffffff)
+![React Query](https://img.shields.io/badge/React%20Query-%23FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=%23ffffff)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=%23ffffff)
+
+
+![Zod](https://img.shields.io/badge/Zod-%233E67B1.svg?style=for-the-badge&logo=zod&logoColor=%23ffffff)
+![MUI](https://img.shields.io/badge/MUI-%23007FFF.svg?style=for-the-badge&logo=mui&logoColor=%23ffffff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=%23ffffff)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### SCM
@@ -45,6 +59,7 @@ I want to contribute, grow with the company, and find satisfaction in a role whe
 ### DB
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 
@@ -60,6 +75,7 @@ I want to contribute, grow with the company, and find satisfaction in a role whe
 |6|실내외통합위치측위 시스템 KAILOS 유지보수|2021.12~2024.02|각종 센서 기술을 이용한 위치측위시스템 유지보수|유지보수|Express, JS, Bootstrap, Google Map, Mapbox|
 |7|HandsOnNFT 시스템 구축|2022.04~2023.07|NFC기술을 이용한 NFT 거래 플랫폼 개발|분석, 설계, 구현|HTML5, JS, Ethereum, Solidity, Express, Reactjs, Nextjs|
 |8|Zzalkak Online 시스템 구축|2023.08~2024.02|Nextjs를 이용한 Zzalkak 연동 웹 프로그램 개발|분석, 설계, 구현|HTML5, JS, Reactjs, Nextjs, Mongoose, Mongodb, Tailwindcss|
+|9|Better Me 피부과 업무 시스템 유지보수|2024.08~2025.06|Spring/Nextjs를 이용한 피부과 업무시스템 및 홈페이지 유지보수 및 개발|유지보수, 빌드최적화, 시스템 개선|HTML5, JS, Reactjs, Nextjs, MUI, Styled-Component|
 
 # 토이프로젝트
 1. 숲에서자고파 (2023-04-20 ~ 2023-04-25 [5일])<br/>
@@ -93,6 +109,13 @@ cloudflare, raspberrypi-ubuntu, let's encrypt, nginx, nodejs, Typescript, Postgr
 ➡️프로젝트 설명<br/>
 Next.js를 이용해 여유시간을 이용하여 포트폴리오 제작을 목표로 진행하였습니다.<br/>
 Next.js, TypeScript, TailwindCSS, Shadcn/ui, React Hook Form, Zod, Framer Motion, Nodemailer, PM2, Ubuntu Server, Raspberry Pi 를 이용하여 제작된 사이트<br/>
+
+4. 🔗[Nextjs15 Boilerplate](https://nextjs.nimuni.com) (2025/06/01 ~ NOW.)<br/>
+➡️프로젝트 설명<br/>
+마지막 업무 시스템이 Next.js Page router 기반의 업무시스템이었기 때문에 Next.js App router에 다시 익숙해지고, 추후 개발 요청 시 해당 프로젝트를 이용하여 빠른 개발을 하기 위해 공통적인 부분에 대한 사전 개발을 해두기 위해 제작중인 사이트.<br/>
+Next.js 15, Typescript, TailwindCSS v4, Shadcn/ui, React Hook Form, Zod, Framer Motion, Nodemailer, PostgreSQL, rechart, better-auth 기반<br/>
+
+참고 - Nginx로 SSL 발급 이후 로컬로 reverse proxy로 로컬에서 개발 진행 중이기 때문에 서비스가 띄워지있지 않을 수 있음.<br/>
  
 # 경력기술서
 1. e-발주시스템 2차(SI)[2016.03~2016.05] - javascript, jquery, AJAX, 전자정부 프레임워크 기반. Oracle 11g DB 사용.<br/>➡️제안, 제안요청 부분 단위, 통합테스트 진행 및 버그 수정.
@@ -136,6 +159,16 @@ solidity를 이용하여 스마트컨트랙트를 제작하고 테스트넷에 �
 ➡️HTML5, JS, Reactjs, Nextjs, Mongoose, Mongodb, Tailwindcss<br/>
 기존 진행하고 있던 ZZALKAK 키오스크 개발 업무를 인계한 후 웹페이지에서 사진 및 영상을 업로드 하기 위한 사이트 개발을 요청받았습니다.<br/>
 nextjs 기반으로 사진과 영상을 업로드하고 수정할 수 있는 에디터를 개발, 기존 ZZALKAK API와의 연동을 통해 키오스크 뿐 아닌 웹에서도 사진 및 영상을 업로드 할 수 있는 사이트를 개발하였습니다. 포트원 토스페이먼츠 웹 개발을 통해 결제기능을 연동하였습니다.<br/>
+
+1. Better Me 피부과 업무 시스템 유지보수 [2024.08~2025.06] Backend Spring / Frontend Nextjs를 이용한 피부과 업무시스템 및 홈페이지 유지보수 및 개발 <br/>
+➡️ HTML5, JS, Reactjs, Nextjs, MUI, Styled-Component, React hook form, React query, Zustand, i18next, react-quill, swiper, scss, css
+Better Me 피부과 업무 시스템 Frontend 리드 개발 업무 수행.<br/>
+유지보수 및 필요한 업무 시스템 제안 및 개발.<br/>
+Next.js 프로젝트의 빌드 프로세스 최적화를 담당. 서버 빌드 대신 로컬 standalone 빌드 방식을 도입하고, 번들링 최적화 툴을 활용하여 빌드 시간 감소 성과 달성<br/>
+Next.js 기반 업무 시스템에 next-i18next를 활용한 다국어(i18n) 기능을 성공적으로 구현. 한국어, 영어, 일본어, 중국어를 포함한 4개 언어를 지원하여 서비스의 글로벌 확장성 및 사용자 만족도 향상에 기여.<br/>
+빽빽했던 관리자 페이지의 화면 구성을 스크롤 기반으로 변경하여 정보 가독성 및 접근성 향상. 스크롤 도입으로 인한 채팅 노출 문제를 해결하기 위해 마지막 채팅 플로팅 UI 및 이동 기능을 구현하여 관리자 업무 편의성과 만족도 향상.<br/>
+랜딩페이지 디자인을 주도적으로 제안 및 반영하여 고객 경험 개선. 또한, 기존에 부재했던 SEO를 위해 schema.org 기반 Microdata를 적용을 통하여 검색 엔진 노출 및 유입을 최적화 수행.<br/>
+업무 시스템 내 색상 코드의 일관성 및 관리 효율성 확보를 위해 하드코딩된 값들을 변수화하여 디자인 시스템 기반을 마련<br/>
 
 # 📫 How to reach me
 - 📨kym9788@gmail.com

@@ -85,7 +85,7 @@ I want to contribute, grow with the company, and find satisfaction in a role whe
 이후 지인의 요청에 따라, 간단한 UI 적용하여 테스트 유저로 추가하여 일부만 배포<br/>
 스토어에 비공개 게시.<br/><br/>
 
-2. 🔗[상상항해사](https://imaginemate.nimuni.com) (2024-03 ~ )<br/>
+2. 🔗[상상항해사](https://imaginemate.nimuni.com) (2024-03 ~ 2024-10)<br/>
 ➡️프로젝트 설명<br/>
 글쓰기 동호회에서 사용할 수 있도록 만든 페이지.<br/>
 Next.js 프레임워크를 기반으로 구성. <br/>
@@ -110,7 +110,7 @@ cloudflare, raspberrypi-ubuntu, let's encrypt, nginx, nodejs, Typescript, Postgr
 Next.js를 이용해 여유시간을 이용하여 포트폴리오 제작을 목표로 진행하였습니다.<br/>
 Next.js, TypeScript, TailwindCSS, Shadcn/ui, React Hook Form, Zod, Framer Motion, Nodemailer, PM2, Ubuntu Server, Raspberry Pi 를 이용하여 제작된 사이트<br/>
 
-4. 🔗[Nextjs15 Boilerplate](https://nextjs.nimuni.com) (2025/06/01 ~ NOW.)<br/>
+4. 🔗[Nextjs15 Boilerplate](https://nextjs.nimuni.com) (2025/06 ~ NOW.)<br/>
 ➡️프로젝트 설명<br/>
 마지막 업무 시스템이 Next.js Page router 기반의 업무시스템이었기 때문에 Next.js App router에 다시 익숙해지고, 추후 개발 요청 시 해당 프로젝트를 이용하여 빠른 개발을 하기 위해 공통적인 부분에 대한 사전 개발을 해두기 위해 제작중인 사이트.<br/>
 Next.js 15, Typescript, TailwindCSS v4, Shadcn/ui, React Hook Form, Zod, Framer Motion, Nodemailer, PostgreSQL, rechart, better-auth 기반<br/>

@@ -161,7 +161,7 @@ solidity를 이용하여 스마트컨트랙트를 제작하고 테스트넷에 �
 nextjs 기반으로 사진과 영상을 업로드하고 수정할 수 있는 에디터를 개발, 기존 ZZALKAK API와의 연동을 통해 키오스크 뿐 아닌 웹에서도 사진 및 영상을 업로드 할 수 있는 사이트를 개발하였습니다. 포트원 토스페이먼츠 웹 개발을 통해 결제기능을 연동하였습니다.<br/>
 
 1. Better Me 피부과 업무 시스템 유지보수 [2024.08~2025.06] Backend Spring / Frontend Nextjs를 이용한 피부과 업무시스템 및 홈페이지 유지보수 및 개발 <br/>
-➡️ HTML5, JS, Reactjs, Nextjs, MUI, Styled-Component, React hook form, React query, Zustand, i18next, react-quill, swiper, scss, css
+➡️ HTML5, JS, Reactjs, Nextjs, MUI, Styled-Component, React hook form, React query, Zustand, i18next, react-quill, swiper, scss, css<br/>
 Better Me 피부과 업무 시스템 Frontend 리드 개발 업무 수행.<br/>
 유지보수 및 필요한 업무 시스템 제안 및 개발.<br/>
 Next.js 프로젝트의 빌드 프로세스 최적화를 담당. 서버 빌드 대신 로컬 standalone 빌드 방식을 도입하고, 번들링 최적화 툴을 활용하여 빌드 시간 감소 성과 달성<br/>

@@ -81,4 +81,3 @@ Developed a Windows kiosk and operation tools for an AR photo/video album servic
 
 - Email: kym9788@gmail.com
 - Portfolio: https://portfolio.nimuni.com
-- Wishket: https://www.wishket.com/partners/p/kym9788/

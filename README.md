@@ -57,10 +57,6 @@ Developed a Windows kiosk and operation tools for an AR photo/video album servic
 - Integrated INICIS and UBCN card payment terminals
 - Connected cameras, photo printers, card printers, logs, installer, and field operation tooling
 
-## Public Repositories
-
-- [my-prd-generator](https://github.com/nimuni/my-prd-generator) - practice project from a Claude Code/PRD workflow
-- [nest-api-boilerplate](https://github.com/nimuni/nest-api-boilerplate) - API boilerplate experiments
 
 ## Stack Snapshot
 

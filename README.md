@@ -22,11 +22,11 @@ I started as a web/front-end engineer in 2016 and now work across Next.js/React,
 
 ## Recent Work
 
-### Core-X Smart Poultry Automation Platform
+### Core-X Smart Poultry Monitoring Platform
 
 Built a production platform spanning a Next.js monitoring dashboard, Go API server, React Native/Kotlin tablet app, and Kubernetes-based delivery workflow.
 
-- Implemented multi-tenant RBAC with organization, farm, flock, and widget-level authorization
+- Designed a multi-tenant RBAC model that keeps data-scope access (organization / farm / house) on a separate axis from widget feature permissions, splits widget rules into visibility (any-of) and usage (all-of), blocks privilege escalation on role assignment, and defaults to deny when a decision cannot be made
 - Added Redis distributed locks to control scheduler concurrency in multi-replica Kubernetes environments
 - Implemented OTA update integrity checks using SHA256 verification on both server and app sides
 - Applied AI-assisted development with policy documents, critic review, and automated test gates
@@ -57,6 +57,12 @@ Developed a Windows kiosk and operation tools for an AR photo/video album servic
 - Integrated INICIS and UBCN card payment terminals
 - Connected cameras, photo printers, card printers, logs, installer, and field operation tooling
 
+
+## Side Projects
+
+- [pdf-editor](https://github.com/nimuni/pdf-editor) - Electron/MuPDF desktop PDF editor. Text editing via content-stream redaction and insertion, embedded image handling, split/merge
+- [imaginemate.nimuni.com](https://imaginemate.nimuni.com) - writing-club platform built and self-hosted end to end (Next.js, Prisma, PostgreSQL, NextAuth)
+- [nimuni.com](https://nimuni.com) - project hub, self-hosted on a Raspberry Pi 5
 
 ## Stack Snapshot
 

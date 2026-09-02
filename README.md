@@ -24,7 +24,7 @@ I started as a web/front-end engineer in 2016 and now work across Next.js/React,
 
 ### Core-X Smart Poultry Monitoring Platform
 
-Built a production platform spanning a Next.js monitoring dashboard, Go API server, React Native/Kotlin tablet app, and Kubernetes-based delivery workflow.
+Built a platform spanning a Next.js monitoring dashboard, Go API server, React Native/Kotlin tablet app, and Kubernetes-based delivery workflow. The service did not reach production; work stopped at initial data entry on a single farm.
 
 - Designed a multi-tenant RBAC model that keeps data-scope access (organization / farm / house) on a separate axis from widget feature permissions, splits widget rules into visibility (any-of) and usage (all-of), blocks privilege escalation on role assignment, and defaults to deny when a decision cannot be made
 - Added Redis distributed locks to control scheduler concurrency in multi-replica Kubernetes environments
